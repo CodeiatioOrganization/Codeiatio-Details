@@ -1,1 +1,23 @@
 Codeiatio Code Of Conduct
+
+This code of conduct provides guidance on participation in Codeiaito managed open source communities,chat rooms,closed communities and outlines the process for reporting unacceptable behavior. As an organization and community, we are committed to providing an inclusive environment for everyone. Anyone violating this code of conduct may be removed and banned from the community.
+
+Our open source communities endeavor to:
+
+1) Use welcoming and inclusive language; We expect you to be at your best behavior at any point of time and not use any abusive language even in chats.
+2) Be respectful of differing viewpoints at all times and be accomodating;
+3) Accept constructive criticism and work together toward decisions; After all we are part of Codeiatio organization and development of good products and making the world a better place is our motive.
+4) Focus on what is best for the community and users.Focus on changing the world with our products which is our motto.
+5) Our Responsibility. As contributors, members, or bystanders we each individually have the responsibility to behave professionally and respectfully at all times. Disrespectful and unacceptable behaviors include, but are not limited to:
+
+The use of violent threats, abusive, discriminatory, or derogatory language;
+Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, race, political or religious affiliation;
+Posting of sexually explicit or violent content;
+The use of sexualized language and unwelcome sexual attention or advances;
+Public or private harassment of any kind;
+Publishing private information, such as physical or electronic address, without permission;
+Other conduct which could reasonably be considered inappropriate in a professional setting;
+Advocating for or encouraging any of the above behaviors.
+Enforcement and Reporting Code of Conduct Issues. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting codeofconduct@codeiaito.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
+
+We strictly enforce the code of Conduct. Any decisions take by the founder/ admin will be final and will be binding. We at Codeiatio are focused on changing the world and developing of good products. Please abide by such simple rules and lets change the world together.
